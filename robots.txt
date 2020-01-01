@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chutalahh.08082016.vip/sitemap.xml
